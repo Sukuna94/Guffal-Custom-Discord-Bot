@@ -1,0 +1,13 @@
+Guffal-Discord-Bot/  
+├── README.md              # Overview and setup instructions  
+├── bot.py                 # Main bot code  
+├── commands/              # Folder for command scripts  
+│   ├── defend.py  
+│   ├── quest.py  
+│   ├── mine.py  
+│   ├── leaderboard.py  
+├── utils/                 # Utility scripts for encryption and storage  
+│   ├── encrypt.py  
+│   ├── database.py  
+├── requirements.txt       # Python dependencies  
+└── config.json            # Bot token and Arcium API keys (securely stored)  
